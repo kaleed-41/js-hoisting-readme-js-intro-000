@@ -14,8 +14,6 @@ function crazy() {
   }
 }
 var test = thisIsCrazy();
-test;
-test("hey!!!");
 
 function sayMyName() {
   // fix the code in here:
